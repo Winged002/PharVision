@@ -1,0 +1,5 @@
+int_state,bool_state,winning_variables,step_count
+1,False,"[7, 5, 3]",3
+3,False,"[7, 5, 3]",3
+0,False,"[7, 5, 3]",3
+8,False,"[1, 5, 9]",1
